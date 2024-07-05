@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime kva</title>
+    <link rel="stylesheet" href="style night.css">
+    <link rel="shortcut icon" href="Lovepik_com-380645442-an-artistic-line-icon-of-a-green-frog-vector-outline-line-icons.png" type="image/x-icon">
+    git удаленный добавить источник https://github.com/Kaha-kola/Anime-kva-kaha.git
+    git branch -M main 
+   git push -u origin main
+</head>
+<body>
+  <center>
+
+              <div class="name"><h1 id="name">Anime kva</h1></div>
+                                    
+         <div class="GO">
+<br><a href="invise.html" id="theme">⬜</a>
+
+      <table class="tabl">
+        <tr><td class="tg"><a href="invise night.html">Anime</a></td><td class="tg">Manga</td><td class="tg">Kontacts</td></tr>             
+      </table>
+
+<br>
+         </div>
+<br>
+         <div class="glav">
+<br>
+<br>
+      <a href=""><img src="реинкарнация безработного.jpg" alt="реинкарнация без" class="img"></a>
+      <a href=""><img src="бармен бокал бога.jpg" alt="бокал бога" class="img"></a>
+      <a href=""><img src="аватар короля.jpg" alt="моя геройская ак" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="басня.jpg" alt="" class="img"></a>
+      <a href=""><img src="блич 1000 летняя война.jpg" alt="" class="img"></a>
+      <a href=""><img src="богиня благословляет этот прекрасный мир.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="борьба в прямом эфире.jpg" alt="" class="img"></a>
+      <a href=""><img src="буттигири.jpg" alt="" class="img"></a>
+      <a href=""><img src="ниндзя без серцификата.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="ветролом.jpg" alt="" class="img"></a>
+      <a href=""><img src="выходной злодея.jpg" alt="" class="img"></a>
+      <a href=""><img src="герою нужна необычная способность.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="истребители демонов гром победы.jpg" alt="" class="img"></a>
+      <a href=""><img src="как не стоит пользоваться магией.jpg" alt="" class="img"></a>
+      <a href=""><img src="класс превосходства.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="магическая битва.jpg" alt="" class="img"></a>
+      <a href=""><img src="мальчик с суперспособностями.jpg" alt="" class="img"></a>
+      <a href=""><img src="меш вандед.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src=" моя геройская академия.jpg" alt="" class="img"></a>
+      <a href=""><img src="невероятные батери.jpg" alt="" class="img"></a>
+      <a href=""><img src="обгон.jpg" alt="" class="img"></a>
+<br> 
+<br>
+      <a href=""><img src="перерождение в слизь.jpg" alt="" class="img"></a>
+      <a href=""><img src="повседневная жизнь бесмертного короля.jpg" alt="" class="img"></a>
+      <a href=""><img src="100 желаний во время зомби апокалипсиса.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="поднятие уровня в тени.jpg" alt="" class="img"></a>
+      <a href=""><img src="семь смертных грехов.jpg" alt="" class="img"></a>
+      <a href=""><img src="соло левелинг.jpg" alt="" class="img"></a>
+<br>
+<br>
+      <a href=""><img src="танк в подземелье.jpg" alt="" class="img"></a>
+      <a href=""><img src="токийские мстители.jpg" alt="" class="img"></a>
+      <a href=""><img src="убивает мыслями.jpg" alt="" class="img"></a>
+<br>
+<br>
+
+         <div class="list">
+      <a href=""><button bgcolor="green">⬆назад</button></a>
+         </div>
+
+
+
+         </div>
+    </center>    
+  </body>
+</html>
